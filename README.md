@@ -25,5 +25,5 @@ As per the `data` and `pageSize` passed, it creates Total Count of pages. The da
 
 ## Example
 
-
+![Demo](image.gif)
 
